@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @racketul
 - 👀 I’m interested in electronics and computer science
-- 🌱 I’m currently learning working on VHDL on FPGA board , Basys3, and Computer Arhitecture 
+- 🌱 I’m currently learning on VHDL on FPGA board , Basys3, and Computer Arhitecture 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me : Send a private message
 
